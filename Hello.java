@@ -3,5 +3,6 @@ class Hello {
 		System.out.println("inited by SCM");
         	System.out.println("develop branch created by SCM.");
 		System.out.println("develop branch created by dev01.");
+		System.out.println("new founction develop branch created by dev01.");
 	}
 }
