@@ -5,6 +5,5 @@ class Hello {
 		System.out.println("develop branch created by dev01.");
 		System.out.println("new function develop branch created by dev02.");
 		System.out.println("new founction develop branch created by dev01.");
-		System.out.println("new founction develop branch created by dev03.");
 	}
 }
